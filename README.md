@@ -16,6 +16,7 @@ Installation:
 
 Clone the repository:
 git clone https://github.com/KushagraVarshney101/Generative-AI-Project
+
 cd Generative-AI-Project
 
 Install the required dependencies:
@@ -34,4 +35,5 @@ Kushagra Varshney
 
 Acknowledgements:
 Gemini API
+
 Streamlit
