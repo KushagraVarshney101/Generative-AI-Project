@@ -9,7 +9,7 @@ This Project contains a Image Descriptive AI and a Q&A based LLM Model Created u
 To deploy this project download the repository
 
 ```bash
-  python3 -r requirements.txt
+  pip3 install -r requirements.txt
 ```
 To use Insight(Text AI)
 ```bash
