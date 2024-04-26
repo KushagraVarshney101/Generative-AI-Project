@@ -23,8 +23,6 @@ To use PixelSense(Image Descriptive AI)
 
 ## API Reference
 
-#### Get all items
-
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
 | `AIzaSyDvvozebfpAr31DQ078cHyhjCg_bMIqULg` | `Gemini AI` | You have to put your API Key |
