@@ -25,7 +25,7 @@ To use PixelSense(Image Descriptive AI)
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
-| `AIzaSyDvvozebfpAr31DQ078cHyhjCg_bMIqULg` | `Gemini AI` | You have to put your API Key |
+| `Your Key` | `Gemini AI` | You have to put your API Key |
 
 
 
